@@ -2,10 +2,10 @@
 
 为方便在国内使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com)，都有优劣之处，大家可自选使用~
 
-在国内**无需翻墙**，就能直接在线使用的 [**ChatGPT镜像网站**](https://chat.lanjing.ai)~
+在国内**无需翻墙**，就能直接在线使用的 [**ChatGPT镜像网站**](https://chat.lanjing.pro)~
 
 **ChatGPT 镜像网站入口：[https://chat.yixiaai.com](https://chat.yixiaai.com/)**   
-**ChatGPT 国内使用入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
+**ChatGPT 国内使用入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ## 什么是 ChatGPT镜像网站？
 
@@ -21,7 +21,7 @@
 ## 国内推荐的 ChatGPT镜像网站
 
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4o、o1、o3 及 Claude 3.7、Grok3、Gemini 2.5，支持最新 4o 绘画。
-- [https://chat.lanjing.ai/](https://chat.lanjing.ai/) - 支持 GPT-4o、o1、o3 及 Claude 3.7 Sonnet、Grok 3、Gemini 2.5 pro、DeepSeek R1 最先进的模型，无限使用~
+- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - 支持 GPT-4o、o1、o3 及 Claude 3.7 Sonnet、Grok 3、Gemini 2.5 pro、DeepSeek R1 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4.0，使用简单便捷。
